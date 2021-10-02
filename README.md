@@ -1,1 +1,1 @@
-This is an example repository to assist in the creation of injectables for the [https://thatfrueddued.github.io/blooket-hack](ThatFruedDued Blooket Hack).
+This is an example repository to assist in the creation of injectables for the (ThatFruedDued Blooket Hack)[https://thatfrueddued.github.io/blooket-hack].
